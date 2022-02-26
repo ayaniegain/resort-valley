@@ -1,6 +1,6 @@
 
 
-link ----------> https://resort-valley.netlify.app/
+link ----------> https://resortvalley.netlify.app/
 "# resort-valley" 
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/59463533/155748978-def32335-79e7-4bba-97dc-c61ba64a9120.png)
