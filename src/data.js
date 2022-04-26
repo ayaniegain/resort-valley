@@ -651,7 +651,7 @@ export default [
       name: "family deluxe",
       slug: "family-deluxe",
       type: "family",
-      price: 500,
+      price: 600,
       size: 700,
       capacity: 6,
       pets: true,
